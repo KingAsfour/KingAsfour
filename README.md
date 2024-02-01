@@ -1,4 +1,4 @@
-# Samir Asfour <img src="https://github.com/KingAsfour/KingAsfour/assets/96599951/620cf300-1129-4f12-ae4f-185d23b1b686" />
+# Samir Asfour <img src="https://github.com/KingAsfour/KingAsfour/assets/96599951/620cf300-1129-4f12-ae4f-185d23b1b686" width="100" height="100"/>
 ### `Student/Hustler/Developer(trying 😅)/Craftsman`
 
 Hey 👋, I'm Samir. I'm currently a student in Computer Science with hopes and dreams of making it as a Software Engineer. I'm passionate about learning new things in life and looking forward to improve my programming skills everyday.
