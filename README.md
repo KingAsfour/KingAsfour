@@ -17,3 +17,4 @@ Hey 👋, I'm Samir. I'm currently a student in Computer Science with hopes and 
 
 ---
 <h1 align="center"> Languages and Tools 🤩🚀</h1>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
